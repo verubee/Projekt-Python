@@ -1,0 +1,223 @@
+Name;Company;Location;Technologies;Salary Low;Salary High;Currency;Salary_avg;Country;Senior;Pozice
+ mid sql data analyst ;Ośrodek Przetwarzania Informacji - Państwowy Instytut Badawczy;warsaw;Data  SQL  pandas  Python;8000.0;10000.0;PLN;9000.0;PL;0;analyst
+ data analyst ;Ferrosan Medical Devices;szczecin;Data  Python  Degree  Data science;14000.0;24000.0;PLN;19000.0;PL;0;analyst
+ data analyst ;Volvo Group;wrocław;Data  SQL  Azure  Power BI;12000.0;18000.0;PLN;15000.0;PL;0;analyst
+ qa/ data analyst ;AVENGA;wrocław;Testing  SQL  QlikView  PySpark;16800.0;20000.0;PLN;18400.0;PL;0;analyst
+ data analyst ;Cognitum Services SA;warsaw;Data  AWS  SQL  Data analysis;17000.0;23000.0;PLN;20000.0;PL;0;analyst
+ data engineer in microsoft azure cloud ;Avanade Poland;remote;Data  Data analyst  Python  Azure;19320.0;29400.0;PLN;24360.0;N/A;0;engineer
+ senior technical project manager ;RTB House;remote;Project Manager  Data analyst  Project management;27000.0;35000.0;PLN;31000.0;N/A;1;0
+ senior data scientist ;Link Group;gdynia;Data  Python  Hadoop  Machine learning;17000.0;22000.0;PLN;19500.0;PL;1;scientist
+ senior bi data engineer ;1dea;remote;Data  SQL  BI  DWH;28560.0;35280.0;PLN;31920.0;N/A;1;engineer
+ senior data engineer ;Craft.co;remote;Data  Python  Data engineering  SQL;28000.0;34000.0;PLN;31000.0;N/A;1;engineer
+ senior technical project manager ;Crestt;remote;Project Manager  Switches  LAN  WAN;18480.0;23520.0;PLN;21000.0;N/A;1;0
+ lead data engineer ;Sunscrapers;remote;Data  Python  SQL  Data warehouses;30000.0;40000.0;PLN;35000.0;N/A;0;engineer
+ senior pl/sql developer ;AVENGA;warsaw;Data  SQL  Oracle  Jira;18480.0;23520.0;PLN;21000.0;PL;1;0
+ senior data engineer - remote ;Link Group;remote;Data  Azure  Python  SQL;20000.0;28000.0;PLN;24000.0;N/A;1;engineer
+ senior data engineer etl + python ;1dea;remote;Data  Python  ETL  Cloud;27720.0;31080.0;PLN;29400.0;N/A;1;engineer
+ senior data engineer - remote ;Link Group;remote;Data  Python  ELT  ETL;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ data engineer ;Tooploox;remote;Data  SQL  Snowflake  BigQuery;15000.0;18000.0;PLN;16500.0;N/A;0;engineer
+ senior data engineer / data architect - remote ;Link Group;remote;Data  Python  Big data  Hadoop;28560.0;33600.0;PLN;31080.0;N/A;1;engineer
+ database administrator ;Amelco UK Ltd.;warsaw;Data  SQL  PostgreSQL  K8s;18900.0;25200.0;PLN;22050.0;PL;0;0
+ senior data architect – supply chain analytics  ;Digital Hub Warsaw at Bayer;warsaw;Data  Python  Degree  Data engineering;20000.0;28500.0;PLN;24250.0;PL;1;0
+ senior data solution architect/ data architect ;Altimetrik Poland;remote;Data  Python  ETL  Azure;27000.0;37000.0;PLN;32000.0;N/A;1;0
+ ms data engineer azure data factory ;1dea;remote;Data  Python  Azure Data Factory  SQL;27720.0;31920.0;PLN;29820.0;N/A;0;engineer
+ senior data engineer (finance team) ;Falck Digital Technology Poland Sp. z o.o.;warsaw;Data  SQL  Azure  Python;20000.0;25000.0;PLN;22500.0;PL;1;engineer
+ senior dev in machine learning - z j. niemieckim ;dmTECH;remote;Data  GCP  CI  Clean Code;15120.0;28896.0;PLN;22008.0;N/A;1;0
+ senior data engineer ;Avenga;remote;Data  Kafka  Degree  MySQL;21840.0;26880.0;PLN;24360.0;N/A;1;engineer
+ mid data & ai engineer fully remote ;Nest Bank;remote;Data  Python  Big data  AI;15000.0;22000.0;PLN;18500.0;N/A;0;engineer
+ senior technical project manager ;Tangent;poznań;Project Manager  Project management  Jira  Confluence;18000.0;26000.0;PLN;22000.0;PL;1;0
+ sql developer ;Link Group;warsaw;Data  SQL  T-SQL  ETL;16800.0;21840.0;PLN;19320.0;PL;0;0
+ data engineer with cloud ;GFT Poland;poznań;Data  Python  Dataproc for Spark  Dataflow for Apache Beam;19320.0;26376.0;PLN;22848.0;PL;0;engineer
+ senior snowflake developer ;AVENGA;remote;Data  SQL  Data modeling  ETL;23520.0;26880.0;PLN;25200.0;N/A;1;0
+ azure data engineer - remote ;Link Group;remote;Data  Azure  CI  Data Lake;18500.0;24500.0;PLN;21500.0;N/A;0;engineer
+ mid/senior qa automation engineer ;Travelplanet.pl SA (Invia Group);wrocław;Testing  Playwright  QA  Automated testing;16000.0;21000.0;PLN;18500.0;PL;1;engineer
+ apex developer ;AVENGA;remote;Data  SQL  Oracle  Apex;26880.0;28560.0;PLN;27720.0;N/A;0;0
+ data scientist  ;Avenga;remote;Data  Computer vision  NLP  SQL;25200.0;28560.0;PLN;26880.0;N/A;0;scientist
+ technical project manager ;Devire;tczew;Project Manager  Communication skills  Project management  Polish;17000.0;20000.0;PLN;18500.0;PL;0;0
+ data solutions architect  ;Link Group;remote;Data  Data analytics  Data analysis  Power Curve;25200.0;30240.0;PLN;27720.0;N/A;0;0
+ senior data scientist ;Adform Sp. z o.o.;warsaw;Data  Machine learning  Analytical skills  Python;22400.0;28823.0;PLN;25611.5;PL;1;scientist
+ professional data engineer ;AVENGA;remote;Data  Snowflake  ETL  Python;21840.0;24360.0;PLN;23100.0;N/A;0;engineer
+ senior data engineer ;AVENGA;remote;Data  Python  SQL  Snowflake;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ mid data modeller - remote ;Link Group;remote;Data  SQL  English;20160.0;25200.0;PLN;22680.0;N/A;0;0
+ senior data engineer - remote  ;Link Group;remote;Data  SQL  dbt  Databricks;23000.0;25200.0;PLN;24100.0;N/A;1;engineer
+ senior data modeller ;AVENGA;gdańsk;Data  SQL  Data modelling  Data structures;25200.0;28560.0;PLN;26880.0;PL;1;0
+ senior big data developer (java/scala) ;Jit Team;gdynia;Data  Scala  Java  Spark;19000.0;27300.0;PLN;23150.0;PL;1;0
+ senior process & project expert oee kpi - remote ;Link Group;remote;Project Manager  OEE  PostgreSQL  Project management;24000.0;27500.0;PLN;25750.0;N/A;1;0
+ principal data engineer  ;Digital Hub Warsaw at Bayer;warsaw;Data  Golang  Kafka  REST API;32000.0;42000.0;PLN;37000.0;PL;0;engineer
+ professional data engineer ;AVENGA;remote;Data  Python  GCP  AWS;21000.0;23520.0;PLN;22260.0;N/A;0;engineer
+ data engineer (future opening) ;Xebia sp. z o.o.;remote;Data  Python  Airflow  PySpark;16700.0;31200.0;PLN;23950.0;N/A;0;engineer
+ tester - qa engineer ;3mk Protection;ostrów;Testing  Postman  Miro  Excel;5500.0;10000.0;PLN;7750.0;PL;0;engineer
+ remote data scientist ;Link Group;remote;Data  SQL  Data science  Machine learning;18480.0;25200.0;PLN;21840.0;N/A;0;scientist
+ senior data engineer gcp - remote  ;Link Group;remote;Data  SQL  GCP  BigQuery;21840.0;30240.0;PLN;26040.0;N/A;1;engineer
+ senior data engineer ;Akamai;remote;Data  Scala  Scala or Java  Python;19000.0;20000.0;PLN;19500.0;N/A;1;engineer
+ lead data architect ;Digital Hub Warsaw at Bayer;warsaw;Data  SQL  Degree  Market analytics;24000.0;34000.0;PLN;29000.0;PL;0;0
+ program and transition manager ;Altimetrik Poland;remote;Project Manager  Jira  SAFe  Altas;25000.0;29500.0;PLN;27250.0;N/A;0;0
+ system engineer ;AVENGA;remote;Data  SQL  Relational database  Oracle;18480.0;20160.0;PLN;19320.0;N/A;0;engineer
+ data architect - remote ;ITDS;remote;Data  Data management  Data architecture  Data Governance;23100.0;27300.0;PLN;25200.0;N/A;0;0
+ data warehouse engineer ;HSBC Technology Poland;kraków;Data  Trino  Dremio  Data Lake;23000.0;30000.0;PLN;26500.0;PL;0;engineer
+ qa manager ;Appfire;remote;Testing  Selenium  Cypress  Wiremock;22625.0;28630.0;PLN;25627.5;N/A;0;0
+ remote data engineer  ;Kingfisher plc.;remote;Data  Python  AWS  Data modelling;15000.0;19000.0;PLN;17000.0;N/A;0;engineer
+ tableau developer (0.5 fte) ;AVENGA;remote;Data  Tableau  SQL  Data visualization;16800.0;20160.0;PLN;18480.0;N/A;0;0
+  administrator baz danych ms sql ;Connectis_;kobyłka;Data  API  MS SQL  ETL;17000.0;20000.0;PLN;18500.0;PL;0;0
+ senior data engineer z j. niemieckim  ;dmTECH;remote;Data  Big data  Spark  Hive;15120.0;28896.0;PLN;22008.0;N/A;1;engineer
+ senior machine learning engineer (future opening) ;Xebia sp. z o.o.;remote;Data  Python  Cloud  CI/CD;20100.0;33600.0;PLN;26850.0;N/A;1;engineer
+ dlt engineer ;HSBC Technology Poland;kraków;Data  Java  Spring Framework  RDBMS;23000.0;25000.0;PLN;24000.0;PL;0;engineer
+ regular/senior test automation engineer z j.niem. ;dmTECH;remote;Testing  Java  Tricentis Tosca  Python;18480.0;28560.0;PLN;23520.0;N/A;1;engineer
+ data engineer (fulfillment) ;Tesco Technology;kraków;Data  Scala  Hadoop  Kafka;20000.0;30000.0;PLN;25000.0;PL;0;engineer
+ programista oracle ;Crestt sp. z o.o.;łódź;Data  Oracle  SQL  Java;21840.0;25200.0;PLN;23520.0;PL;0;0
+ data scientist ;Connectis_;remote;Data  AI  Machine learning  Python;25200.0;28560.0;PLN;26880.0;N/A;0;scientist
+ data engineer (senior/principal) ;Addepto;remote;Data  Python  Big data  Databricks;21000.0;31920.0;PLN;26460.0;N/A;1;engineer
+ qa manager - tester manualny ;Eversis;remote;Testing  Issue tracking  QA experience  Jira;7000.0;9600.0;PLN;8300.0;N/A;0;0
+ cloud data warehouse platform developer ;Devire;warsaw;Data  AWS  Amazon Redshift  AWS S3;22000.0;27000.0;PLN;24500.0;PL;0;0
+ senior data scientist ;Devire;łódź;Data  Python  SQL  DAX;25200.0;29400.0;PLN;27300.0;PL;1;scientist
+ it project manager ;Falck Digital Technology Poland Sp. z o.o.;warsaw;Project Manager  AI  ERP  CRM;22000.0;24000.0;PLN;23000.0;PL;0;0
+ data platform engineer/consultant - team leader ;Elitmind;remote;Data  SQL  SQL Server  SSIS;17976.0;24024.0;PLN;21000.0;N/A;0;engineer
+ junior data engineer / python developer ;Alterdata.io sp. z o.o.;remote;Data  Python  SQL  Problem solving;7000.0;11000.0;PLN;9000.0;N/A;0;engineer
+ 	 software engineer (machine learning mlops) ;Tesco Technology;kraków;Data  Python  Machine learning  Splunk;20000.0;27000.0;PLN;23500.0;PL;0;engineer
+ database reliability engineer ;monday.com;warsaw;Data  SQL  RDBMS  MySQL;57000.0;64000.0;PLN;60500.0;PL;0;engineer
+ junior analityk danych / analityczka danych ;Alterdata.io sp. z o.o.;remote;Data  SQL  Azure  GCP;7000.0;11000.0;PLN;9000.0;N/A;0;0
+ senior data modeller ;Devire;gdańsk;Data  SQL  Data modelling  Data structures;25200.0;29400.0;PLN;27300.0;PL;1;0
+ opera cloud consultant / leader ;Link Group;gdynia;Project Manager  Opera Cloud  Opera V5  Project management;12000.0;15000.0;PLN;13500.0;PL;0;0
+ senior cloud data engineer ;Devire;remote;Data  SQL  Cloud  Git;20160.0;26880.0;PLN;23520.0;N/A;1;engineer
+ data engineer ;Numlabs - Data Science Services;remote;Data  Python  Degree  Cloud computing;16800.0;25200.0;PLN;21000.0;N/A;0;engineer
+ software development manager - machine learning ;Tesco Technology;kraków;Data  Python  MLOps  Team management;28000.0;40000.0;PLN;34000.0;PL;0;0
+ senior data engineer - remote ;Link Group;remote;Data  Azure  Python  SQL;20000.0;28000.0;PLN;24000.0;N/A;1;engineer
+ data warehouse engineer ;HSBC Technology Poland;kraków;Data  Trino  Dremio  Data Lake;23000.0;30000.0;PLN;26500.0;PL;0;engineer
+ senior data engineer z j. niemieckim  ;dmTECH;remote;Data  Big data  Spark  Hive;15120.0;28896.0;PLN;22008.0;N/A;1;engineer
+ ms data engineer azure data factory ;1dea;remote;Data  Python  Azure Data Factory  SQL;27720.0;31920.0;PLN;29820.0;N/A;0;engineer
+ medior data engineer ;DATAPAO Kft.;remote;Data  Spark  AWS  Azure;10799.0;16198.0;PLN;13498.5;N/A;0;engineer
+ senior data engineer ;DATAPAO Kft.;remote;Data  Spark  SQL  NoSQL;16198.0;21598.0;PLN;18898.0;N/A;1;engineer
+ senior data engineer - remote ;Link Group;remote;Data  Python  ELT  ETL;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ azure data engineer - remote ;Link Group;remote;Data  Azure  CI  Data Lake;18500.0;24500.0;PLN;21500.0;N/A;0;engineer
+ senior data engineer gcp - remote  ;Link Group;remote;Data  SQL  GCP  BigQuery;21840.0;30240.0;PLN;26040.0;N/A;1;engineer
+ remote data engineer  ;Kingfisher plc.;remote;Data  Python  AWS  Data modelling;15000.0;19000.0;PLN;17000.0;N/A;0;engineer
+ senior data engineer - remote  ;Link Group;remote;Data  SQL  dbt  Databricks;23000.0;25200.0;PLN;24100.0;N/A;1;engineer
+ senior data engineer ;Craft.co;remote;Data  Python  Data engineering  SQL;28000.0;34000.0;PLN;31000.0;N/A;1;engineer
+ senior data engineer / data architect - remote ;Link Group;remote;Data  Python  Big data  Hadoop;28560.0;33600.0;PLN;31080.0;N/A;1;engineer
+ data platform engineer/consultant ;Elitmind;remote;Business Intelligence  English  SQL  ETL;13944.0;19992.0;PLN;16968.0;N/A;0;engineer
+ principal data engineer  ;Digital Hub Warsaw at Bayer;warsaw;Data  Golang  Kafka  REST API;32000.0;42000.0;PLN;37000.0;PL;0;engineer
+ lead data engineer ;Sunscrapers;remote;Data  Python  SQL  Data warehouses;30000.0;40000.0;PLN;35000.0;N/A;0;engineer
+ data scientist / ml engineer ;Addepto;remote;AI  Python  Machine learning  Data science;14280.0;25200.0;PLN;19740.0;N/A;0;engineer
+ senior data engineer ;Avenga;remote;Data  Kafka  Degree  MySQL;21840.0;26880.0;PLN;24360.0;N/A;1;engineer
+ remote senior data engineer ;Varwise;remote;Data  Scala  Spark  AWS;29185.0;38914.0;PLN;34049.5;N/A;1;engineer
+ data engineer in microsoft azure cloud ;Avanade Poland;remote;Data  Python  Azure  SQL;19320.0;29400.0;PLN;24360.0;N/A;0;engineer
+ mid data & ai engineer fully remote ;Nest Bank;remote;Data  Python  Big data  AI;15000.0;22000.0;PLN;18500.0;N/A;0;engineer
+ medior data engineer ;DATAPAO Kft.;remote;Consulting  Spark  AWS  Azure;10799.0;16198.0;PLN;13498.5;N/A;0;engineer
+ senior data engineer ;DATAPAO Kft.;remote;Consulting  Data  SQL  NoSQL;16198.0;21598.0;PLN;18898.0;N/A;1;engineer
+ senior data engineer (finance team) ;Falck Digital Technology Poland Sp. z o.o.;warsaw;Data  SQL  Azure  Python;20000.0;25000.0;PLN;22500.0;PL;1;engineer
+ professional data engineer ;AVENGA;remote;Data  Snowflake  ETL  Python;21840.0;24360.0;PLN;23100.0;N/A;0;engineer
+ data engineer ;Appliscale;remote;Data  AWS  Degree  IaC;23000.0;30000.0;PLN;26500.0;N/A;0;engineer
+ data platform engineer/consultant - team leader ;Elitmind;remote;Data  SQL  SQL Server  SSIS;17976.0;24024.0;PLN;21000.0;N/A;0;engineer
+ professional data engineer ;AVENGA;remote;Data  Python  GCP  AWS;21000.0;23520.0;PLN;22260.0;N/A;0;engineer
+ senior data engineer ;AVENGA;remote;Data  Python  SQL  Snowflake;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ senior data engineer ;Akamai;remote;Data  Scala  Scala or Java  Python;19000.0;20000.0;PLN;19500.0;N/A;1;engineer
+ data engineer with cloud ;GFT Poland;poznań;Data  Python  Dataproc for Spark  Dataflow for Apache Beam;19320.0;26376.0;PLN;22848.0;PL;0;engineer
+ senior bi data engineer ;1dea;remote;Data  SQL  BI  DWH;28560.0;35280.0;PLN;31920.0;N/A;1;engineer
+ data engineer ;Numlabs - Data Science Services;remote;Data  Python  Degree  Cloud computing;16800.0;25200.0;PLN;21000.0;N/A;0;engineer
+ senior data engineer etl + python ;1dea;remote;Data  Python  ETL  Cloud;27720.0;31080.0;PLN;29400.0;N/A;1;engineer
+ data engineer (senior/principal) ;Addepto;remote;Data  Python  Big data  Databricks;21000.0;31920.0;PLN;26460.0;N/A;1;engineer
+ senior cloud data engineer ;Devire;remote;Data  SQL  Cloud  Git;20160.0;26880.0;PLN;23520.0;N/A;1;engineer
+ data engineer iii - forecasting ;Tesco Technology;kraków;Data  Python  Hadoop  Spark;26000.0;40000.0;PLN;33000.0;PL;0;engineer
+ data engineer (fulfillment) ;Tesco Technology;kraków;Data  Scala  Hadoop  Kafka;20000.0;30000.0;PLN;25000.0;PL;0;engineer
+ big data engineer (with palantir foundry) ;N-iX;remote;Data  Python  Palantir  PySpark;19846.0;27239.0;PLN;23542.5;N/A;0;engineer
+ data engineer ;Tooploox;remote;Data  SQL  Snowflake  BigQuery;15000.0;18000.0;PLN;16500.0;N/A;0;engineer
+ data engineer (future opening) ;Xebia sp. z o.o.;remote;Data  Python  Airflow  PySpark;16700.0;31200.0;PLN;23950.0;N/A;0;engineer
+ junior data engineer / python developer ;Alterdata.io sp. z o.o.;remote;Data  Python  SQL  Problem solving;7000.0;11000.0;PLN;9000.0;N/A;0;engineer
+ lead data scientist / ml engineer ;Addepto;remote;AI  Python  ML  Data science;19320.0;28560.0;PLN;23940.0;N/A;0;engineer
+ senior technical instructor ;DATAPAO Kft.;remote;Data  Data engineer  SQL  Teaching Skills;16198.0;21598.0;PLN;18898.0;N/A;1;0
+ devops engineer (ai team) ;Addepto;remote;DevOps  Data engineer  Azure  Azure Data Factory;19320.0;25200.0;PLN;22260.0;N/A;0;engineer
+ senior technical instructor ;DATAPAO Kft.;remote;Consulting  Data engineer  Teaching Skills  Communication skills;16198.0;21598.0;PLN;18898.0;N/A;1;0
+ solution architect (databricks/snowflake) (1979) ;N-iX;kraków;Architecture  Data engineer  Snowflake  Databricks;31131.0;38914.0;PLN;35022.5;PL;0;0
+ senior data scientist ;Adform Sp. z o.o.;warsaw;Data  Machine learning  Analytical skills  Python;22400.0;28823.0;PLN;25611.5;PL;1;scientist
+ senior data scientist ;DATAPAO Kft.;remote;Data  Python  Big data  Data science;16198.0;21598.0;PLN;18898.0;N/A;1;scientist
+ senior data scientist ;Link Group;gdynia;Data  Python  Hadoop  Machine learning;17000.0;22000.0;PLN;19500.0;PL;1;scientist
+ data scientist / ml engineer ;Addepto;remote;AI  Python  Machine learning  Data science;14280.0;25200.0;PLN;19740.0;N/A;0;engineer
+ remote data scientist ;Link Group;remote;Data  SQL  Data science  Machine learning;18480.0;25200.0;PLN;21840.0;N/A;0;scientist
+ data scientist  ;Avenga;remote;Data  Computer vision  NLP  SQL;25200.0;28560.0;PLN;26880.0;N/A;0;scientist
+ senior data scientist ;Devire;łódź;Data  Python  SQL  DAX;25200.0;29400.0;PLN;27300.0;PL;1;scientist
+ senior data scientist ;DATAPAO Kft.;remote;Consulting  Python  Data  Big data;16198.0;21598.0;PLN;18898.0;N/A;1;scientist
+ data scientist ;Connectis_;remote;Data  AI  Machine learning  Python;25200.0;28560.0;PLN;26880.0;N/A;0;scientist
+ senior data scientist - computer vision ;Tesco Technology;kraków;Data  Python  Testing  Docker;26000.0;36000.0;PLN;31000.0;PL;1;scientist
+ senior data scientist (nlp and computer vision) ;Brainly Sp. z o.o.;remote;AI  Python  NLP  Deep learning;26000.0;35000.0;PLN;30500.0;N/A;1;scientist
+ data scientist (nlp and computer vision) ;Brainly Sp. z o.o.;remote;AI  Python  NLP  Deep learning;17500.0;30000.0;PLN;23750.0;N/A;0;scientist
+ lead data scientist / ml engineer ;Addepto;remote;AI  Python  ML  Data science;19320.0;28560.0;PLN;23940.0;N/A;0;engineer
+ senior technical project manager ;RTB House;remote;Project Manager  Data scientist  Project management;27000.0;35000.0;PLN;31000.0;N/A;1;0
+ ml ops engineer ;HARMAN Connected Services;remote;AI  Python  Data science  Machine learning;17300.0;24700.0;PLN;21000.0;N/A;0;engineer
+ senior dev in machine learning - z j. niemieckim ;dmTECH;remote;Data  GCP  CI  Clean Code;15120.0;28896.0;PLN;22008.0;N/A;1;0
+ data engineer with cloud ;GFT Poland;poznań;Data  Python  Dataproc for Spark  Dataflow for Apache Beam;19320.0;26376.0;PLN;22848.0;PL;0;engineer
+ senior big data developer (java/scala) ;Jit Team;gdynia;Data  Scala  Java  Spark;19000.0;27300.0;PLN;23150.0;PL;1;0
+ ml engineer (nlp and llms) ;Brainly Sp. z o.o.;remote;AI  Python  NLP  Deep learning;17500.0;26000.0;PLN;21750.0;N/A;0;engineer
+ senior ml engineer (nlp and llms) ;Brainly Sp. z o.o.;remote;AI  Python  NLP  Deep learning;26000.0;35000.0;PLN;30500.0;N/A;1;engineer
+ senior data engineer etl + python ;1dea;remote;Data  Python  ETL  Cloud;27720.0;31080.0;PLN;29400.0;N/A;1;engineer
+ senior data solution architect/ data architect ;Altimetrik Poland;remote;Data  Python  ETL  Azure;27000.0;37000.0;PLN;32000.0;N/A;1;0
+ ai/ml engineer ;Engenious;remote;AI  Python  AI  Computer vision;26880.0;33600.0;PLN;30240.0;N/A;0;engineer
+ junior ml/nlp engineer ;Ink Solutions sp. z o.o;warsaw;AI  Machine learning  Algorithms  NLP;4500.0;4500.0;PLN;4500.0;PL;0;engineer
+ software engineer ;HUAWEI;warsaw;AI  Python  Algorithms  Data structures;20000.0;29000.0;PLN;24500.0;PL;0;engineer
+ mid data & ai engineer fully remote ;Nest Bank;remote;Data  Python  Big data  AI;15000.0;22000.0;PLN;18500.0;N/A;0;engineer
+ senior data architect – supply chain analytics  ;Digital Hub Warsaw at Bayer;warsaw;Data  Python  Degree  Data engineering;20000.0;28500.0;PLN;24250.0;PL;1;0
+ senior technical project manager ;Crestt;remote;Project Manager  Switches  LAN  WAN;18480.0;23520.0;PLN;21000.0;N/A;1;0
+ senior data engineer - remote ;Link Group;remote;Data  Python  ELT  ETL;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ senior nlp engineer ;Sigmoidal;remote;AI  Python  NLP  Machine learning;31000.0;37000.0;PLN;34000.0;N/A;1;engineer
+ nlp/ai engineer ;VML Enterprise Solutions;remote;AI  Python  AI  Communication skills;13000.0;17000.0;PLN;15000.0;N/A;0;engineer
+ professional data engineer ;AVENGA;remote;Data  Python  GCP  AWS;21000.0;23520.0;PLN;22260.0;N/A;0;engineer
+ data warehouse engineer ;HSBC Technology Poland;kraków;Data  Trino  Dremio  Data Lake;23000.0;30000.0;PLN;26500.0;PL;0;engineer
+ lead data architect ;Digital Hub Warsaw at Bayer;warsaw;Data  SQL  Degree  Market analytics;24000.0;34000.0;PLN;29000.0;PL;0;0
+ gen ai tech lead ;Link Group;gdynia;AI  Python  RAG Pipeline  AWS;27000.0;32000.0;PLN;29500.0;PL;0;0
+ lead data engineer ;Sunscrapers;remote;Data  Python  SQL  Data warehouses;30000.0;40000.0;PLN;35000.0;N/A;0;engineer
+ machine learning engineer ;Tooploox;remote;AI  Python  Machine learning  Computer vision;13000.0;18000.0;PLN;15500.0;N/A;0;engineer
+    senior machine learning engineer - remote ;DCG Sp. z o.o.;remote;AI  Degree  Machine learning  Python;26880.0;33600.0;PLN;30240.0;N/A;1;engineer
+ azure data engineer - remote ;Link Group;remote;Data  Azure  CI  Data Lake;18500.0;24500.0;PLN;21500.0;N/A;0;engineer
+ senior technical project manager ;Tangent;poznań;Project Manager  Project management  Jira  Confluence;18000.0;26000.0;PLN;22000.0;PL;1;0
+ senior data engineer (finance team) ;Falck Digital Technology Poland Sp. z o.o.;warsaw;Data  SQL  Azure  Python;20000.0;25000.0;PLN;22500.0;PL;1;engineer
+ senior machine learning engineer  ;MANGOPAY;remote;AI  Python  MLOps  Data engineering;20000.0;31250.0;PLN;25625.0;N/A;1;engineer
+ mlops engineer ;Harvey Nash Technology;remote;AI  Python  AWS  REST;17000.0;33000.0;PLN;25000.0;N/A;0;engineer
+ senior data engineer gcp - remote  ;Link Group;remote;Data  SQL  GCP  BigQuery;21840.0;30240.0;PLN;26040.0;N/A;1;engineer
+ remote data engineer  ;Kingfisher plc.;remote;Data  Python  AWS  Data modelling;15000.0;19000.0;PLN;17000.0;N/A;0;engineer
+ senior data engineer / data architect - remote ;Link Group;remote;Data  Python  Big data  Hadoop;28560.0;33600.0;PLN;31080.0;N/A;1;engineer
+ azure cloud engineer - azure ai services (pharma) ;7N Sp. z o.o.;remote;AI  Azure  Azure Cloud  Azure AI services;24360.0;26880.0;PLN;25620.0;N/A;0;engineer
+ senior data engineer ;Craft.co;remote;Data  Python  Data engineering  SQL;28000.0;34000.0;PLN;31000.0;N/A;1;engineer
+ mid-senior machine learning engineer ;Harvey Nash Technology;kraków;AI  Python  OOP  Data structures;17000.0;23000.0;PLN;20000.0;PL;1;engineer
+ machine learning engineer ;AVENGA;remote;AI  Machine learning  SQL  T-SQL;23520.0;25200.0;PLN;24360.0;N/A;0;engineer
+ senior data engineer - remote ;Link Group;remote;Data  Azure  Python  SQL;20000.0;28000.0;PLN;24000.0;N/A;1;engineer
+ technical project manager ;Devire;tczew;Project Manager  Communication skills  Project management  Polish;17000.0;20000.0;PLN;18500.0;PL;0;0
+ data engineer in microsoft azure cloud ;Avanade Poland;remote;Data  Python  Azure  SQL;19320.0;29400.0;PLN;24360.0;N/A;0;engineer
+ machine learning engineer ;Numlabs - Data Science Services;remote;AI  Python  Degree  Cloud computing;20160.0;26880.0;PLN;23520.0;N/A;0;engineer
+ data engineer ;Tooploox;remote;Data  SQL  Snowflake  BigQuery;15000.0;18000.0;PLN;16500.0;N/A;0;engineer
+ senior data engineer - remote  ;Link Group;remote;Data  SQL  dbt  Databricks;23000.0;25200.0;PLN;24100.0;N/A;1;engineer
+ senior ai engineer ;Sigma IT Poland;remote;AI  AI  Machine learning  Python;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ principal data engineer  ;Digital Hub Warsaw at Bayer;warsaw;Data  Golang  Kafka  REST API;32000.0;42000.0;PLN;37000.0;PL;0;engineer
+ database administrator ;Amelco UK Ltd.;warsaw;Data  SQL  PostgreSQL  K8s;18900.0;25200.0;PLN;22050.0;PL;0;0
+ mid sql data analyst ;Ośrodek Przetwarzania Informacji - Państwowy Instytut Badawczy;warsaw;Data  SQL  pandas  Python;8000.0;10000.0;PLN;9000.0;PL;0;analyst
+ senior data engineer ;AVENGA;remote;Data  Python  SQL  Snowflake;23520.0;26880.0;PLN;25200.0;N/A;1;engineer
+ senior data engineer ;Avenga;remote;Data  Kafka  Degree  MySQL;21840.0;26880.0;PLN;24360.0;N/A;1;engineer
+ senior data engineer z j. niemieckim  ;dmTECH;remote;Data  Big data  Spark  Hive;15120.0;28896.0;PLN;22008.0;N/A;1;engineer
+ senior pl/sql developer ;AVENGA;warsaw;Data  SQL  Oracle  Jira;18480.0;23520.0;PLN;21000.0;PL;1;0
+ senior machine learning engineer (future opening) ;Xebia sp. z o.o.;remote;Data  Python  Cloud  CI/CD;20100.0;33600.0;PLN;26850.0;N/A;1;engineer
+ senior bi data engineer ;1dea;remote;Data  SQL  BI  DWH;28560.0;35280.0;PLN;31920.0;N/A;1;engineer
+ program and transition manager ;Altimetrik Poland;remote;Project Manager  Jira  SAFe  Altas;25000.0;29500.0;PLN;27250.0;N/A;0;0
+ professional data engineer ;AVENGA;remote;Data  Snowflake  ETL  Python;21840.0;24360.0;PLN;23100.0;N/A;0;engineer
+ data engineer (future opening) ;Xebia sp. z o.o.;remote;Data  Python  Airflow  PySpark;16700.0;31200.0;PLN;23950.0;N/A;0;engineer
+ data analyst ;Cognitum Services SA;warsaw;Data  AWS  SQL  Data analysis;17000.0;23000.0;PLN;20000.0;PL;0;analyst
+ ms data engineer azure data factory ;1dea;remote;Data  Python  Azure Data Factory  SQL;27720.0;31920.0;PLN;29820.0;N/A;0;engineer
+ senior process & project expert oee kpi - remote ;Link Group;remote;Project Manager  OEE  PostgreSQL  Project management;24000.0;27500.0;PLN;25750.0;N/A;1;0
+ senior snowflake developer ;AVENGA;remote;Data  SQL  Data modeling  ETL;23520.0;26880.0;PLN;25200.0;N/A;1;0
+ senior data modeller ;AVENGA;gdańsk;Data  SQL  Data modelling  Data structures;25200.0;28560.0;PLN;26880.0;PL;1;0
+ sql developer ;Link Group;warsaw;Data  SQL  T-SQL  ETL;16800.0;21840.0;PLN;19320.0;PL;0;0
+ mid data modeller - remote ;Link Group;remote;Data  SQL  English;20160.0;25200.0;PLN;22680.0;N/A;0;0
+ system engineer ;AVENGA;remote;Data  SQL  Relational database  Oracle;18480.0;20160.0;PLN;19320.0;N/A;0;engineer
+ tableau developer (0.5 fte) ;AVENGA;remote;Data  Tableau  SQL  Data visualization;16800.0;20160.0;PLN;18480.0;N/A;0;0
+ software development manager - machine learning ;Tesco Technology;kraków;Data  Python  MLOps  Team management;28000.0;40000.0;PLN;34000.0;PL;0;0
+ apex developer ;AVENGA;remote;Data  SQL  Oracle  Apex;26880.0;28560.0;PLN;27720.0;N/A;0;0
+ programista oracle ;Crestt sp. z o.o.;łódź;Data  Oracle  SQL  Java;21840.0;25200.0;PLN;23520.0;PL;0;0
+ it project manager ;Falck Digital Technology Poland Sp. z o.o.;warsaw;Project Manager  AI  ERP  CRM;22000.0;24000.0;PLN;23000.0;PL;0;0
+ dlt engineer ;HSBC Technology Poland;kraków;Data  Java  Spring Framework  RDBMS;23000.0;25000.0;PLN;24000.0;PL;0;engineer
+ 	 software engineer (machine learning mlops) ;Tesco Technology;kraków;Data  Python  Machine learning  Splunk;20000.0;27000.0;PLN;23500.0;PL;0;engineer
+ senior cloud data engineer ;Devire;remote;Data  SQL  Cloud  Git;20160.0;26880.0;PLN;23520.0;N/A;1;engineer
+ data engineer (senior/principal) ;Addepto;remote;Data  Python  Big data  Databricks;21000.0;31920.0;PLN;26460.0;N/A;1;engineer
+ data engineer ;Numlabs - Data Science Services;remote;Data  Python  Degree  Cloud computing;16800.0;25200.0;PLN;21000.0;N/A;0;engineer
+ cloud data warehouse platform developer ;Devire;warsaw;Data  AWS  Amazon Redshift  AWS S3;22000.0;27000.0;PLN;24500.0;PL;0;0
+ data engineer iii - forecasting ;Tesco Technology;kraków;Data  Python  Hadoop  Spark;26000.0;40000.0;PLN;33000.0;PL;0;engineer
+ senior data engineer ;Akamai;remote;Data  Scala  Scala or Java  Python;19000.0;20000.0;PLN;19500.0;N/A;1;engineer
+ senior software engineer (machine learning mlops) ;Tesco Technology;kraków;Data  Python  Machine learning  Splunk;26000.0;36000.0;PLN;31000.0;PL;1;engineer
+ database reliability engineer ;monday.com;warsaw;Data  SQL  RDBMS  MySQL;57000.0;64000.0;PLN;60500.0;PL;0;engineer
+ senior data modeller ;Devire;gdańsk;Data  SQL  Data modelling  Data structures;25200.0;29400.0;PLN;27300.0;PL;1;0
